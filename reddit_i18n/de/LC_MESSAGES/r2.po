@@ -72,15 +72,15 @@ msgstr "Dein Passwort wurde aktualisiert"
 
 #: r2/controllers/api.py:888
 msgid "replied"
-msgstr ""
+msgstr "geantwortet"
 
 #: r2/controllers/api.py:949
 msgid "shared"
-msgstr "weitergesagt"
+msgstr "geteilt"
 
 #: r2/controllers/api.py:952
 msgid "your link has been shared."
-msgstr "Dein Link wurde weitergesagt."
+msgstr "Dein Link wurde geteilt."
 
 #: r2/controllers/api.py:1052
 msgid "validation errors"
@@ -94,7 +94,7 @@ msgstr "Gelöscht"
 
 #: r2/controllers/api.py:1195 r2/templates/subredditstylesheet.html:196
 msgid "bad image name"
-msgstr ""
+msgstr "falscher Bildname"
 
 #: r2/controllers/api.py:1199
 #, python-format
@@ -103,43 +103,43 @@ msgstr "zu viele Bilder (Sie bekommen nur %d)"
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "Fehlerhaftes Bild oder allgemeiner Bild Fehle"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "Nun bist Du gefragt! Besuche einen anderen Nutzer und gib ihm ein Geschenk!"
 
 #: r2/controllers/api.py:1642
 msgid "claimed!"
-msgstr ""
+msgstr "gefordert!"
 
 #: r2/controllers/api.py:1658
 msgid "an email will be sent to that account's address shortly"
-msgstr ""
+msgstr "Eine Email wird in kürze an diese Adresse geschickt"
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "Versuche es morgens nochmals"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
-msgstr ""
+msgstr "Invalide CSS Klasse"
 
 #: r2/controllers/api.py:1908 r2/controllers/api.py:2069
 msgid "too many css classes"
-msgstr ""
+msgstr "Zu viele CSS Klassen"
 
 #: r2/controllers/api.py:2085
 msgid "max flair templates reached"
-msgstr ""
+msgstr "Maximale Anzahl Flair Templates erreicht"
 
 #: r2/controllers/api.py:2303
 msgid "redirecting..."
-msgstr ""
+msgstr "weiterleitung..."
 
 #: r2/controllers/api.py:2306
 msgid "error (sorry)"
-msgstr ""
+msgstr "Fehler (sorry)"
 
 #: r2/controllers/buttons.py:201 r2/controllers/buttons.py:209
 msgid "reddit buttons"
@@ -151,7 +151,7 @@ msgstr "Reddit Widget"
 
 #: r2/controllers/buttons.py:220
 msgid "bookmarklets"
-msgstr "Bookmarklets"
+msgstr "Lesezeichen"
 
 #: r2/controllers/buttons.py:225 r2/controllers/front.py:706
 #: r2/lib/menus.py:87 r2/templates/newlink.html:104
@@ -160,15 +160,15 @@ msgstr "Einreichen"
 
 #: r2/controllers/embed.py:65
 msgid "edit this page"
-msgstr ""
+msgstr "Bearbeite diese Seite"
 
 #: r2/controllers/embed.py:66
 msgid "yes, it's okay!"
-msgstr "Ja, gut!"
+msgstr "Ja, es ist gut!"
 
 #: r2/controllers/embed.py:67
 msgid "just read this first."
-msgstr "Zuerst liess dieses "
+msgstr "Lies zuerst dies."
 
 #: r2/controllers/embed.py:83 r2/lib/menus.py:88 r2/lib/pages/pages.py:418
 #: r2/templates/frametoolbar.html:107
@@ -178,7 +178,7 @@ msgstr "Hilfe"
 #: r2/controllers/error.py:114
 #, python-format
 msgid "forbidden (%(domain)s)"
-msgstr "Verboten  (  %(domain)s )"
+msgstr "Verboten  (%(domain)s)"
 
 #: r2/controllers/error.py:135
 msgid "this reddit has been banned"
@@ -186,11 +186,11 @@ msgstr "Dieses Reddit wurde gebannt"
 
 #: r2/controllers/errors.py:27
 msgid "please login to do that"
-msgstr ""
+msgstr "Um dies zu tun musst du eingeloggt sein"
 
 #: r2/controllers/errors.py:28
 msgid "you need to set a valid email address to do that."
-msgstr ""
+msgstr "Du musst eine gültige Email Adresse verwenden um dies zu tun"
 
 #: r2/controllers/errors.py:29
 msgid "a url is required"
@@ -214,11 +214,11 @@ msgstr "Dieser Benutzername ist schon vergeben"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "Der Benutzername ist bereits von einem gelöschten Account vergeben"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "Du kannst das nicht an einen Benutzer senden, den du geblockt hast"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -230,23 +230,23 @@ msgstr "Das kannst du nicht tun"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "Du bist nicht als dieser Benutzer eingeloggt"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr ""
+msgstr "Der Link den du kommentieren willst, wurde bereits gelöscht"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
-msgstr ""
+msgstr "Dieser Kommentar wurde gelöscht"
 
 #: r2/controllers/errors.py:41
 msgid "that element has been deleted"
-msgstr ""
+msgstr "Dieses Element wurde gelöscht"
 
 #: r2/controllers/errors.py:42
 msgid "that password is unacceptable"
-msgstr ""
+msgstr "Das Passwort erfüllt nicht die Anforderungen"
 
 #: r2/controllers/errors.py:43
 msgid "invalid password"
